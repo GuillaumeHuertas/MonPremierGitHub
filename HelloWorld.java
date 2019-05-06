@@ -1,4 +1,4 @@
-package com.nsis;
+package com.test;
 
 public class HelloWorld {
 
